@@ -17,7 +17,7 @@
 # │   └── panel_D_mricrogl.py
 # │
 # ├── data/reference/templates/
-# │   └── DL_template_original_inPax_brain.nii
+# │   └── DL_template_original_inPax_brain.nii.gz
 # │
 # ├── data/processed/fMRI/Figure_6/Figure_6A/
 # │   └── TFCE_rankPos_FWE_05.nii
@@ -54,7 +54,7 @@ template_file = os.path.join(
     'data',
     'reference',
     'templates',
-    'DL_template_original_inPax_brain.nii'
+    'DL_template_original_inPax_brain.nii.gz'
 )
 
 # Reuse the Figure 6A source-data directory
@@ -162,3 +162,4 @@ print(output_file)
 # gl.overlaycloseall()
 
 print('Supplementary Figure 12D rendering complete.')
+

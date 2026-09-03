@@ -81,7 +81,7 @@ Template:
 
 ```text
 data/reference/templates/
-└── DL_template_original_inPax_brain.nii
+└── DL_template_original_inPax_brain.nii.gz
 ```
 
 Statistical maps:
@@ -193,3 +193,4 @@ results/main/Figure_2/Figure_2E/
 ```
 
 Missing output directories are created automatically.
+

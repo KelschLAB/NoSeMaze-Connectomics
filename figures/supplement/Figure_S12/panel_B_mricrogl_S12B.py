@@ -17,7 +17,7 @@
 # │   └── panel_B_mricrogl.py
 # │
 # ├── data/reference/templates/
-# │   └── DL_template_original_inPax_brain.nii
+# │   └── DL_template_original_inPax_brain.nii.gz
 # │
 # ├── data/processed/fMRI/Figure_S12/Figure_S12B/
 # │   └── deactivation*T01.nii
@@ -54,7 +54,7 @@ template_file = os.path.join(
     'data',
     'reference',
     'templates',
-    'DL_template_original_inPax_brain.nii'
+    'DL_template_original_inPax_brain.nii.gz'
 )
 
 input_dir = os.path.join(
@@ -172,3 +172,4 @@ for filename in overlay_files:
 # gl.overlaycloseall()
 
 print('Supplementary Figure 12B rendering complete.')
+

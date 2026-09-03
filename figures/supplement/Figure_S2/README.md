@@ -72,7 +72,7 @@ docDataSrc.m
 
 ```text
 data/reference/templates/
-└── DL_template_original_inPax_brain.nii
+└── DL_template_original_inPax_brain.nii.gz
 ```
 
 ### Statistical-map input
@@ -233,3 +233,4 @@ It additionally exports:
 - The MATLAB script determines the repository root from its own location.
 - The MRIcroGL script requires manual `repo_root` editing because it runs inside MRIcroGL's embedded Python environment.
 - MATLAB helpers may be organized under `src/matlab/helpers/`; `addpath(genpath(srcDir))` loads them recursively.
+

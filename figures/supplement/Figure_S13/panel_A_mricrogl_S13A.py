@@ -17,7 +17,7 @@
 # │   └── panel_A_mricrogl.py
 # │
 # ├── data/reference/templates/
-# │   └── DL_template_original_inPax_brain.nii
+# │   └── DL_template_original_inPax_brain.nii.gz
 # │
 # ├── data/processed/fMRI/Figure_S13/Figure_S13A/
 # │   └── vHC*corrdeltaC.nii
@@ -54,7 +54,7 @@ template_file = os.path.join(
     'data',
     'reference',
     'templates',
-    'DL_template_original_inPax_brain.nii'
+    'DL_template_original_inPax_brain.nii.gz'
 )
 
 input_dir = os.path.join(
@@ -168,3 +168,4 @@ for filename in overlay_files:
     # gl.overlaycloseall()
 
 print('Supplementary Figure 13A rendering complete.')
+

@@ -34,7 +34,7 @@ template_file = os.path.join(
     'data',
     'reference',
     'templates',
-    'DL_template_original_inPax_brain.nii'
+    'DL_template_original_inPax_brain.nii.gz'
 )
 
 input_dir = os.path.join(
@@ -148,3 +148,4 @@ for filename in overlay_files:
     print(output_file)
 
 print('Figure 6E rendering complete.')
+

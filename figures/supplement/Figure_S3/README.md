@@ -72,7 +72,7 @@ The Figure S3B script intentionally does **not** recursively add all of `src/mat
 
 ```text
 data/reference/templates/
-└── DL_template_original_inPax_brain.nii
+└── DL_template_original_inPax_brain.nii.gz
 ```
 
 ### Statistical-map input
@@ -170,3 +170,4 @@ The scripts in this folder reproduce the **displayed Supplementary Figure S3 pan
 The upstream study-specific HRF estimation itself was performed in the separate n=11 ultrafast-fMRI cohort by fitting mean olfactory-region BOLD time courses with SPM HRFs using parameter sweeps and `fminsearch` optimization. That fitting pipeline is not rerun by `panel_B_HRF_comparison.m`; instead, the script evaluates and displays the final custom mouse `spm_hrf.m` implementation resulting from that analysis alongside the canonical human SPM HRF.
 
 If the full HRF-estimation pipeline is included in the repository, it should therefore live under `src/matlab/` as preprocessing/analysis machinery rather than inside this figure folder.
+

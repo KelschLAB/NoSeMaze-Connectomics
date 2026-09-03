@@ -12,7 +12,7 @@
 #
 # Anatomical template:
 #   data/reference/templates/
-#       DL_template_original_inPax_brain.nii
+#       DL_template_original_inPax_brain.nii.gz
 #
 # Output:
 #   results/supplement/Figure_S3/Figure_S3A/
@@ -51,7 +51,7 @@ template_file = os.path.join(
     'data',
     'reference',
     'templates',
-    'DL_template_original_inPax_brain.nii'
+    'DL_template_original_inPax_brain.nii.gz'
 )
 
 overlay_file = os.path.join(
@@ -150,3 +150,4 @@ gl.overlaycloseall()
 print('Completed Figure S3A.')
 print('Output:')
 print(output_file)
+

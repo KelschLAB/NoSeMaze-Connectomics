@@ -32,7 +32,7 @@ Anatomical template:
 
 ```text
 data/reference/templates/
-└── DL_template_original_inPax_brain.nii
+└── DL_template_original_inPax_brain.nii.gz
 ```
 
 Custom MRIcroGL resources:
@@ -191,3 +191,4 @@ The supplied S13 analysis was already internally consistent:
 - BOLD extraction follows the same `mean_betaNeg = PRE`, `mean_betaPos = TEST` convention used elsewhere in the repository.
 
 No statistical analysis was changed. The only code-level cleanup is the MRIcroGL overlay reset in S13A and an explicit `src/matlab/` existence check in S13B.
+

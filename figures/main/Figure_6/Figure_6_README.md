@@ -98,7 +98,7 @@ The MRIcroGL panels use:
 
 ```text
 data/reference/templates/
-└── DL_template_original_inPax_brain.nii
+└── DL_template_original_inPax_brain.nii.gz
 ```
 
 The anatomical template is displayed with the original high-resolution settings and mosaic coordinates retained in the scripts.
@@ -496,3 +496,4 @@ including separate panel figures, a combined G/H figure, source data, statistics
 - MRIcroGL scripts require manual editing of `repo_root` because of MRIcroGL's embedded Python environment.
 - The R mediation script should determine the repository root from its own script location and should not depend on the active RStudio project or current working directory.
 - MRIcroGL panels 6C and 6E should clear overlays before loading each new statistical map, matching the behavior already implemented in panel 6A.
+

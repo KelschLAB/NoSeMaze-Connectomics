@@ -9,7 +9,7 @@
 # ├── figures/main/Figure_2/
 # │   └── panel_D_mricrogl.py
 # ├── data/reference/templates/
-# │   └── DL_template_original_inPax_brain.nii
+# │   └── DL_template_original_inPax_brain.nii.gz
 # ├── data/processed/fMRI/Figure_2D/
 # │   ├── activation*.nii
 # │   └── deactivation*.nii
@@ -43,7 +43,7 @@ template_file = os.path.join(
     "data",
     "reference",
     "templates",
-    "DL_template_original_inPax_brain.nii"
+    "DL_template_original_inPax_brain.nii.gz"
 )
 
 overlay_directory = os.path.join(
@@ -80,7 +80,7 @@ if not os.path.isfile(template_file):
         + template_file
         + "\n\nExpected repository location:\n"
         + "data/reference/templates/"
-        + "DL_template_original_inPax_brain.nii"
+        + "DL_template_original_inPax_brain.nii.gz"
     )
 
 if not os.path.isdir(overlay_directory):
@@ -390,3 +390,4 @@ print("")
 print("Figure 2D rendering completed.")
 print("Outputs saved to:")
 print(output_directory)
+

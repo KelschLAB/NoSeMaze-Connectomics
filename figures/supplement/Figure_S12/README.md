@@ -43,7 +43,7 @@ All four panels use:
 
 ```text
 data/reference/templates/
-└── DL_template_original_inPax_brain.nii
+└── DL_template_original_inPax_brain.nii.gz
 ```
 
 Common rendering settings:
@@ -202,3 +202,4 @@ The supplied S12 scripts were already technically consistent in the important re
 - output directories are panel-specific.
 
 No rendering parameters or statistical inputs were changed. The cleanup is limited to stale documentation/comments and minor formatting.
+
