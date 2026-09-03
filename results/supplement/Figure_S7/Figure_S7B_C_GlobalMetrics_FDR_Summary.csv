@@ -1,0 +1,4 @@
+Metric,AUC_Structure_Field,Conditioning_P_Raw,Conditioning_FDR_Q,Conditioning_FDR_Significant,DeltaBetweenCohorts_P_Raw,DeltaBetweenCohorts_FDR_Q,DeltaBetweenCohorts_FDR_Significant
+deltaC,g_delta_C,0.3071,0.3071,0,0.3036,0.9108,0
+deltaL,g_delta_L,0.1314,0.2094,0,0.9708,0.9708,0
+SWP,g_swp,0.1396,0.2094,0,0.672,0.9708,0

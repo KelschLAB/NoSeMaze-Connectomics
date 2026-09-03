@@ -1,0 +1,3 @@
+Comparison,Parametric_P,Permutation_P_Raw,Permutation_FDR_Q,FDR_Significant,NumberOfPermutations,RandomSeed
+Conditioning_PRE_vs_TEST,8.03456428125572e-06,0,0,1,10000,1234
+Delta_Conditioning_vs_Control,0.0467722384024769,0.0452,0.0452,1,10000,1234

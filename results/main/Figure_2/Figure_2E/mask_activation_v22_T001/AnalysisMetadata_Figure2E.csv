@@ -1,0 +1,2 @@
+ROI,NumberOfSubjects,FirstTrial,LastTrial,TrialSmoothingWindow,ColorLimitMinimum,ColorLimitMaximum
+mask_activation_v22_T001,24,11,40,3,-1,1

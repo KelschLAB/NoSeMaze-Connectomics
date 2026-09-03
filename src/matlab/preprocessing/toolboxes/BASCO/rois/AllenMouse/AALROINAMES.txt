@@ -1,0 +1,8 @@
+AON_inPax_roi_bin
+APC_inPax_roi_bin
+NAc_inPax_roi_bin
+OB_inPax_roi_bin
+Periaqueductal_gray_leftHem_roi_bin
+Periaqueductal_gray_rightHem_roi_bin
+Thalamus_sensory-motor_cortex_related_leftHem_roi_bin
+Thalamus_sensory-motor_cortex_related_rightHem_roi_bin

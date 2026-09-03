@@ -1,0 +1,4 @@
+subject_id,session_id,condition,expected_trials,protocol_file,dlc_csv,video_file,video_start_frame,include
+d01,ses1,conditioning,160,,,,,1
+d01,ses2,post_1h,80,,,,,1
+d01,ses3,post_24h,80,,,,,1

@@ -1,0 +1,2 @@
+Cohort,Analysis,PreFile,TestFile,NumberOfSubjects,NumberOfROIs,FDRThreshold
+Control cohort,TPnoPuff,cormat_v6_TPnoPuff11to40.mat,cormat_v6_TPnoPuff81to120.mat,24,52,0.05

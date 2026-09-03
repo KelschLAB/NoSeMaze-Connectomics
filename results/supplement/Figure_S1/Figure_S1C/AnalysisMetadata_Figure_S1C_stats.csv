@@ -1,0 +1,2 @@
+"Figure","Cohort","Outcome","Periods","TrialRanges","Formula","N_Observations","N_Animals","N_Permutations","Seed","InputFile"
+"Figure S1C","conditioning/reappraisal","non-normalized tonic lid mean","PRE;PAIRING;TEST;ADDITIONAL TEST","11-40;41-80;81-120;121-160","lid ~ block_label + (1 | animal_ID)",36,9,10000,1234,"C:/Users/jonathan.reinwald/Dropbox/ICON_Autonomouse/reappraisal/manuscript/NoSeMaze-Connectomics/results/supplement/Figure_S1/Figure_S1C/SourceData_Figure_S1C_tonic_lid_four_periods.csv"

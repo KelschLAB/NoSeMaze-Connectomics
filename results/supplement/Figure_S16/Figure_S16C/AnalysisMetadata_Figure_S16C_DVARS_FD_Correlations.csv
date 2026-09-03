@@ -1,0 +1,2 @@
+Panel,NumberOfAnimals,Pipelines,CorrelationType,AnalysisUnit,FDAlignment,InputFile
+Figure S16C,24,"Nothing,AFNI,WD10_AFNI",Pearson,subject-wise correlation across time points,"FD_SNiP(:,2:end) aligned to DVARS",data/processed/fMRI/preprocessing/reappraisal/model_selection/DVARS_info.mat

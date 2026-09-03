@@ -1,0 +1,2 @@
+"Figure","Cohort","Timepoint","Outcome","BlockCodes","Formula","N_Observations","N_Animals","N_Permutations","Seed","InputFile"
+"Figure_S1D","control/no-puff","tonic","lid","1;2;3","lid ~ block_label + (1 | animal_ID)",27,9,10000,1234,"C:/Users/jonathan.reinwald/Dropbox/ICON_Autonomouse/reappraisal/manuscript/NoSeMaze-Connectomics/data/processed/eyelid/control/Mean_LidData_R_intrasession_control.xlsx"

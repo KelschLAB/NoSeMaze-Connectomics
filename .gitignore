@@ -1,0 +1,55 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# MATLAB editor/cache artifacts
+*.asv
+*~
+*.autosave
+slprj/
+codegen/
+
+# R session artifacts
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor metadata
+.vscode/
+.idea/
+
+# Temporary / backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Private / non-public data
+data/raw/
+data/intermediate/
+data/private/
+
+# Large NoSeMaze intermediate datasets
+data/processed/NoSeMaze/tubetest/NoSeMaze_1/full_hierarchy_withChasing_jr.mat
+data/processed/NoSeMaze/tubetest/NoSeMaze_2/full_hierarchy_withChasing_jr.mat
+
+# Large anatomical template
+data/reference/templates/DL_template_original_inPax_brain.nii
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example

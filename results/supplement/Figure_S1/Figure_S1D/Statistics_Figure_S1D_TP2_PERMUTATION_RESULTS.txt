@@ -1,0 +1,15 @@
+
+Coefficients of (fixed) effects:
+                       Estimate Std. Error       df t value Pr(>|t|) Perm_p_value
+(Intercept)              0.9998     0.0201   9.5452 49.8486   0.0000           NA
+block_labelNON_PAIRING   0.0052     0.0092 902.0055  0.5700   0.5688       0.5281
+block_labelTEST          0.0261     0.0092 902.0564  2.8356   0.0047       0.0003
+
+Note: Perm_p_value of t test is obtained using ‘10000’ permutations.
+
+ANOVA:
+            Sum Sq Mean Sq NumDF    DenDF F value Pr(>F) Perm_p_value
+block_label 0.1161  0.0581     2 902.0596  4.8054 0.0084       0.0036
+
+Note: Perm_p_value of F test is obtained using ‘10000’ permutations.
+

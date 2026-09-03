@@ -1,0 +1,2 @@
+Figure,Analysis,N_Control,N_Conditioning,NBS_PrimaryProbability,T_Threshold,F_Threshold,NBS_ContrastDisplayed,Control_Pre_File,Control_Test_File,Conditioning_Pre_File,Conditioning_Test_File
+Figure 3B,TPnoPuff,24,24,0.975,2.01289559891943,5.36919418889955,[-1 1] conditioning > control,cormat_v6_TPnoPuff11to40.mat,cormat_v6_TPnoPuff81to120.mat,cormat_v11_TPnoPuff11to40.mat,cormat_v11_TPnoPuff81to120.mat

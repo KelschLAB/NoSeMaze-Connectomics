@@ -1,0 +1,2 @@
+Figure,SamplingInterval_s,ComputedTimeRange_s,DisplayedTimeRange,MouseHRF_File,HumanHRF_File,SPM_Gpdf_File
+Figure S3B,0.1,0:0.1:32,0-15 s,C:\Users\jonathan.reinwald\Dropbox\ICON_Autonomouse\reappraisal\manuscript\NoSeMaze-Connectomics\src\matlab\helpers\hrf\mouse\spm_hrf.m,C:\Users\jonathan.reinwald\Dropbox\ICON_Autonomouse\reappraisal\manuscript\NoSeMaze-Connectomics\src\matlab\helpers\hrf\human\spm_hrf.m,C:\Users\jonathan.reinwald\Dropbox\ICON_Autonomouse\reappraisal\manuscript\NoSeMaze-Connectomics\src\matlab\helpers\hrf\common\spm_Gpdf.m

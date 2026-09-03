@@ -1,0 +1,14 @@
+BASCO version: v11
+Regressor model: v19
+Conditions: Lavender | TP Puff | TP NoPuff
+Onsets: 120 | 28 | 92
+EPI prefix: wave_10cons_med1000_msk_wrst_a1_u_despiked_del5_
+EPI suffix: _c1_c2t_wds
+Smoothed: no
+HRF: HRFlongTC_withoutOnset_from2sHRF-GLM
+Nuisance: rp_regressors_despiked_motcsf_der_v11.txt
+Nuisance columns: 14
+Atlas labels: AllenBrain_2021_v2_inPax_merged_jr.txt
+Atlas NIfTI: AllenBrain_2021_v2_inPax_merged.nii
+ROI count: 52
+Left/right combination: yes, via grouped atlas label IDs in merged ROI text file

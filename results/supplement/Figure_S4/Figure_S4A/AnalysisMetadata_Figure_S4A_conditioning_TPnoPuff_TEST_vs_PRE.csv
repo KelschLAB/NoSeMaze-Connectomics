@@ -1,0 +1,2 @@
+Panel,Cohort,Analysis,PreFile,TestFile,NumberOfSubjects,NumberOfROIs,FDRAlpha,ROIDataFile,ColormapFile
+Figure_S4A,Conditioning cohort,TPnoPuff,cormat_v11_TPnoPuff11to40.mat,cormat_v11_TPnoPuff81to120.mat,24,52,0.05,C:\Users\jonathan.reinwald\Dropbox\ICON_Autonomouse\reappraisal\manuscript\NoSeMaze-Connectomics\data\processed\fMRI\Figure_3\conditioning\roidata_v11_Odor11to40.mat,C:\Users\jonathan.reinwald\Dropbox\ICON_Autonomouse\reappraisal\manuscript\NoSeMaze-Connectomics\src\matlab\helpers\colormaps\myColormap_magentablue.mat

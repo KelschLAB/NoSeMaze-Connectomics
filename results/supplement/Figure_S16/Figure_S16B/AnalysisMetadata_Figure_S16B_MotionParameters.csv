@@ -1,0 +1,2 @@
+Panel,MotionFileType,NumberOfAnimals,Detrending,FramewiseDisplacement,TranslationScaling,InputRoot
+Figure S16B,rp_despiked_del,24,quadratic detrending,SNiP_framewise_displacement on detrended original rp values,translation columns 1:3 divided by 10 after FD calculation,data/processed/fMRI/preprocessing/reappraisal

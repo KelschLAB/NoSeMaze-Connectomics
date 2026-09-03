@@ -1,0 +1,18 @@
+
+Causal Mediation Analysis 
+
+Nonparametric Bootstrap Confidence Intervals with the BCa Method
+
+               Estimate 95% CI Lower 95% CI Upper p-value    
+ACME           0.159845     0.044171     0.307272   0.012 *  
+ADE            0.624290     0.426420     0.985296  <2e-16 ***
+Total Effect   0.784136     0.533425     1.098794  <2e-16 ***
+Prop. Mediated 0.203849     0.053773     0.379624   0.012 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Sample Size Used: 24 
+
+
+Simulations: 1000 
+

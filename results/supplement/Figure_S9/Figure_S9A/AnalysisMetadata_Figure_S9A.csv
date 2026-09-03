@@ -1,0 +1,2 @@
+Panel,Predictor,SparsityRangePercent,NumberOfAnimals,PRE,TEST,Metrics,CorrelationType,MultipleTestingCorrection,PreAucFile,TestAucFile
+Figure_S9A,Rank,45-50,24,TPnoPuff11to40,TPnoPuff81to120,"g_delta_C,g_delta_L,g_swp",Pearson,"BH FDR separately across g_delta_C, g_delta_L, g_swp for PRE, TEST, TEST-PRE",data/processed/fMRI/Figure_S9/conditioning/auc_struc_TPnoPuff11to40_45to50_p.mat,data/processed/fMRI/Figure_S9/conditioning/auc_struc_TPnoPuff81to120_45to50_p.mat

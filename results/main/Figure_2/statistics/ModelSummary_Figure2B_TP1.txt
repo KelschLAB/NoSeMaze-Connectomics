@@ -1,0 +1,24 @@
+Linear mixed model fit by REML ['lmerMod']
+Formula: lid ~ block + (1 | animal_ID)
+   Data: data
+
+REML criterion at convergence: -1184.7
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-4.2667 -0.4400 -0.0403  0.3169  9.2544 
+
+Random effects:
+ Groups    Name        Variance  Std.Dev.
+ animal_ID (Intercept) 0.0007905 0.02812 
+ Residual              0.0078131 0.08839 
+Number of obs: 604, groups:  animal_ID, 9
+
+Fixed effects:
+             Estimate Std. Error t value
+(Intercept)  1.022506   0.010852  94.220
+block3      -0.019286   0.007263  -2.656
+
+Correlation of Fixed Effects:
+       (Intr)
+block3 -0.380

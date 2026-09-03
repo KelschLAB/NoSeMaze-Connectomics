@@ -1,0 +1,2 @@
+Figure,PRE,TEST,DensityThresholdsPercent,HistogramBinWidth,N_Conditioning,N_Control,Conditioning_Pre_File,Conditioning_Test_File,Control_Pre_File,Control_Test_File
+Figure S18,TPnoPuff11to40,TPnoPuff81to120,"10,15,20,25,30,35,40,45,50",0.01,24,24,data/processed/fMRI/Figure_4/conditioning/gstruc_TPnoPuff11to40_p.mat,data/processed/fMRI/Figure_4/conditioning/gstruc_TPnoPuff81to120_p.mat,data/processed/fMRI/Figure_4/control/gstruc_TPnoPuff11to40_p.mat,data/processed/fMRI/Figure_4/control/gstruc_TPnoPuff81to120_p.mat

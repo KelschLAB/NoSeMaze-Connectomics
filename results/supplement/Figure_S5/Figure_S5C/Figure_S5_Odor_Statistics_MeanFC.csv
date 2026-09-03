@@ -1,0 +1,4 @@
+Comparison,Parametric_H,Parametric_P,Permutation_P,NumberOfPermutations,RandomSeed
+Conditioning_Test_vs_Pre,0,0.415955990761713,0.4322,10000,1234
+Control_Test_vs_Pre,0,0.410849155866992,0.4108,10000,1234
+FCdiff_Conditioning_vs_Control,0,0.248003316789218,0.2386,10000,1234

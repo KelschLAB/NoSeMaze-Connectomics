@@ -1,0 +1,5 @@
+"TestType","Comparison","PermutationPValue","NumberOfPermutations"
+"Omnibus block effect","Overall block effect",0.0002,10000
+"Coefficient comparison","block2",0.0002,10000
+"Coefficient comparison","block3",0.0075,10000
+"Coefficient comparison","block4",0.7959,10000

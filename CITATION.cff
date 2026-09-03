@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and this software repository."
+title: "NoSeMaze-Connectomics"
+type: software
+authors:
+  - family-names: "Reinwald"
+    given-names: "Jonathan R."
+  - family-names: "Nikolantonaki"
+    given-names: "Danai"
+  - family-names: "Wolf"
+    given-names: "David"
+  - family-names: "Nelias"
+    given-names: "Corentin"
+  - family-names: "Tost"
+    given-names: "Heike"
+  - family-names: "Meyer-Lindenberg"
+    given-names: "Andreas"
+  - family-names: "Weber-Fahr"
+    given-names: "Wolfgang"
+  - family-names: "Kelsch"
+    given-names: "Wolfgang"
+date-released: 2026-08-21
+license: GPL-3.0-only
+keywords:
+  - connectomics
+  - awake fMRI
+  - mouse
+  - social rank
+  - NoSeMaze
+  - functional connectivity
+  - graph theory
+  - conditioning
+abstract: >-
+  Analysis and visualization code accompanying the manuscript
+  "Subordination experiences disrupt network adaptivity, biasing negative
+  hippocampal recall". The repository contains figure-level MATLAB, R, and
+  MRIcroGL scripts, shared analysis utilities, processed/derived inputs, and
+  preprocessing code for methodological provenance.

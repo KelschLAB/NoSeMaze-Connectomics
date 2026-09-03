@@ -1,0 +1,36 @@
+function epiFile = find_preprocessed_epi( ...
+    rootDir, subjectID, epiPrefix, epiSuffix)
+% FIND_PREPROCESSED_EPI Find one analysis-ready 4D EPI NIfTI.
+
+files = dir(fullfile(rootDir, '**', '*.nii'));
+files = files(~[files.isdir]);
+
+candidate = false(numel(files), 1);
+
+for fileIndex = 1:numel(files)
+
+    currentName = files(fileIndex).name;
+    currentPath = fullfile(files(fileIndex).folder, currentName);
+
+    candidate(fileIndex) = ...
+        startsWith(currentName, epiPrefix) && ...
+        endsWith(currentName, [epiSuffix '.nii']) && ...
+        contains(currentPath, subjectID, 'IgnoreCase', true);
+end
+
+files = files(candidate);
+
+if numel(files) ~= 1
+    error( ...
+        ['Expected exactly one preprocessed EPI for %s with:\n' ...
+         'prefix: %s\nsuffix: %s\nFound: %d'], ...
+        subjectID, ...
+        epiPrefix, ...
+        epiSuffix, ...
+        numel(files) ...
+    );
+end
+
+epiFile = fullfile(files(1).folder, files(1).name);
+
+end

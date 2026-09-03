@@ -1,0 +1,2 @@
+Cohort,Analysis,PreFile,TestFile,NumberOfSubjects,NumberOfROIs,FDRThreshold
+Conditioning cohort,Odor,cormat_v11_Odor11to40.mat,cormat_v11_Odor81to120.mat,24,52,0.05

@@ -1,0 +1,272 @@
+Subject Comment,Subject ID,Subject Name,Study,Examination,Expno,Image Comment
+200722A,ZI_M13,13,T1,Localizer,2,
+200722A,ZI_M13,13,T1,Fieldmap_1,4,EPI _usethis1.2_22slc_acc1.2_FOV17
+200722A,ZI_M13,13,T1,EPI_roomarray (E6),6,EPI _test
+200722A,ZI_M13,13,T1,EPI_RS,5,EPI RS
+200722A,ZI_M13,13,T1,ADJ_B0MAP_CryoCoil_Mouse (E10),10,
+200722A,ZI_M13,13,T1,Fieldmap_2,10,
+200722A,ZI_M13,13,T1,EPI_reappraisal,11,EPI paradigma
+200722A,ZI_M13,13,T1,EPI_roomarray (E11),11,EPI paradigma
+200722A,ZI_M13,13,T1,Fieldmap_3,12,Fieldmap
+200722A,ZI_M13,13,T1,ADJ_B0MAP_CryoCoil_Mouse (E12),12,Fieldmap
+200722A,ZI_M13,13,T1,TurboRARE3D,9,TurboRARE3D_Awake_biggerFOV
+200722B,ZI_M19,19,T1,Localizer (E1),1,
+200722B,ZI_M19,19,T1,Fieldmap_1,8,EPI test
+200722B,ZI_M19,19,T1,,2,EPI test
+200722B,ZI_M19,19,T1,EPI_RS,3,EPI RS
+200722B,ZI_M19,19,T1,Fieldmap (E4),4,Fieldmap
+200722B,ZI_M19,19,T1,Fieldmap_2,4,Fieldmap
+200722B,ZI_M19,19,T1,EPI_reappraisal,5,EPI paradigma
+200722B,ZI_M19,19,T1,,5,EPI paradigma
+200722B,ZI_M19,19,T1,Fieldmap_3,6,Fieldmap
+200722B,ZI_M19,19,T1,Fieldmap (E6),6,Fieldmap
+200722B,ZI_M19,19,T1,TurboRARE3D,7,TurboRARE3D_Awake_biggerFOV
+200722C,ZI_M18,18,T1,Localizer (E1),1,
+200722C,ZI_M18,18,T1,Fieldmap_1,8,EPI test
+200722C,ZI_M18,18,T1,EPI test (E2),2,EPI test
+200722C,ZI_M18,18,T1,EPI_RS,3,EPI RS
+200722C,ZI_M18,18,T1,Fieldmap (E4),4,Fieldmap
+200722C,ZI_M18,18,T1,Fieldmap_2,4,Fieldmap
+200722C,ZI_M18,18,T1,EPI_reappraisal,5,EPI paradigma
+200722C,ZI_M18,18,T1,Fieldmap_3,6,Fieldmap
+200722C,ZI_M18,18,T1,Fieldmap (E6),6,Fieldmap
+200722C,ZI_M18,18,T1,TurboRARE3D,7,TurboRARE3D_Awake_biggerFOV
+200722D,ZI_M25,25,T1,Localizer (E1),1,
+200722D,ZI_M25,25,T1,Fieldmap_1,8,EPI test
+200722D,ZI_M25,25,T1,EPI test (E2),2,EPI test
+200722D,ZI_M25,25,T1,EPI_RS,3,EPI RS
+200722D,ZI_M25,25,T1,Fieldmap (E4),4,Fieldmap
+200722D,ZI_M25,25,T1,Fieldmap_2,4,Fieldmap
+200722D,ZI_M25,25,T1,EPI_reappraisal,5,EPI paradigma
+200722D,ZI_M25,25,T1,Fieldmap (E6),6,Fieldmap
+200722D,ZI_M25,25,T1,Fieldmap_3,6,Fieldmap
+200722D,ZI_M25,25,T1,TurboRARE3D,7,TurboRARE3D_Awake_biggerFOV
+200722E,ZI_M12,12,T1,Localizer (E1),1,
+200722E,ZI_M12,12,T1,Fieldmap_1,8,EPI test
+200722E,ZI_M12,12,T1,EPI test (E2),2,EPI test
+200722E,ZI_M12,12,T1,EPI_RS,3,EPI RS
+200722E,ZI_M12,12,T1,Fieldmap (E4),4,Fieldmap
+200722E,ZI_M12,12,T1,Fieldmap_2,4,Fieldmap
+200722E,ZI_M12,12,T1,EPI_reappraisal,5,EPI paradigma
+200722E,ZI_M12,12,T1,Fieldmap_3,6,Fieldmap
+200722E,ZI_M12,12,T1,Fieldmap (E6),6,Fieldmap
+200722E,ZI_M12,12,T1,TurboRARE3D,7,TurboRARE3D_Awake_biggerFOV
+200722F,ZI_M17,17,T1,Localizer (E8),8,
+200722F,ZI_M17,17,T1,Fieldmap_1,15,EPI test
+200722F,ZI_M17,17,T1,EPI test (E9),9,EPI test
+200722F,ZI_M17,17,T1,EPI_RS,10,EPI RS
+200722F,ZI_M17,17,T1,Fieldmap (E11),11,Fieldmap
+200722F,ZI_M17,17,T1,Fieldmap_2,11,Fieldmap
+200722F,ZI_M17,17,T1,EPI_reappraisal,12,EPI paradigma
+200722F,ZI_M17,17,T1,Fieldmap_3,13,Fieldmap
+200722F,ZI_M17,17,T1,Fieldmap (E13),13,Fieldmap
+200722F,ZI_M17,17,T1,TurboRARE3D,14,TurboRARE3D_Awake_biggerFOV
+200723A,ZI_M11,11,T1,Localizer (E8),8,
+200723A,ZI_M11,11,T1,Fieldmap_1,9,EPI test
+200723A,ZI_M11,11,T1,EPI test (E2),2,EPI test
+200723A,ZI_M11,11,T1,EPI_RS,3,EPI RS
+200723A,ZI_M11,11,T1,Fieldmap (E4),4,Fieldmap
+200723A,ZI_M11,11,T1,Fieldmap_2,4,Fieldmap
+200723A,ZI_M11,11,T1,EPI_reappraisal,5,EPI paradigma
+200723A,ZI_M11,11,T1,Fieldmap_3,6,Fieldmap
+200723A,ZI_M11,11,T1,Fieldmap (E6),6,Fieldmap
+200723A,ZI_M11,11,T1,TurboRARE3D,7,TurboRARE3D_Awake_biggerFOV
+200723B,ZI_M39,39,T1,Localizer (E1),1,
+200723B,ZI_M39,39,T1,Fieldmap_1,8,EPI test
+200723B,ZI_M39,39,T1,EPI test (E2),2,EPI test
+200723B,ZI_M39,39,T1,EPI_RS,3,EPI RS
+200723B,ZI_M39,39,T1,Fieldmap (E4),4,Fieldmap
+200723B,ZI_M39,39,T1,Fieldmap_2,4,Fieldmap
+200723B,ZI_M39,39,T1,EPI_reappraisal,5,EPI paradigma
+200723B,ZI_M39,39,T1,Fieldmap_3,6,Fieldmap
+200723B,ZI_M39,39,T1,Fieldmap (E6),6,Fieldmap
+200723B,ZI_M39,39,T1,TurboRARE3D,7,TurboRARE3D_Awake_biggerFOV
+200722C,ZI_M14,14,T1,Localizer (E8),8,
+200722C,ZI_M14,14,T1,Fieldmap_1,9,EPI test
+200722C,ZI_M14,14,T1,EPI test (E2),2,EPI test
+200722C,ZI_M14,14,T1,EPI_RS,3,EPI RS
+200722C,ZI_M14,14,T1,Fieldmap (E4),4,Fieldmap
+200722C,ZI_M14,14,T1,Fieldmap_2,4,Fieldmap
+200722C,ZI_M14,14,T1,EPI_reappraisal,5,EPI paradigma
+200722C,ZI_M14,14,T1,Fieldmap_3,6,Fieldmap
+200722C,ZI_M14,14,T1,Fieldmap (E6),6,Fieldmap
+200722C,ZI_M14,14,T1,TurboRARE3D,7,TurboRARE3D_Awake_biggerFOV
+200722D,ZI_M23,23,T1,Localizer (E1),1,
+200722D,ZI_M23,23,T1,Fieldmap_1,8,EPI test
+200722D,ZI_M23,23,T1,EPI test (E2),2,EPI test
+200722D,ZI_M23,23,T1,,9,EPI test
+200722D,ZI_M23,23,T1,EPI_RS,3,EPI RS
+200722D,ZI_M23,23,T1,Fieldmap (E4),4,Fieldmap
+200722D,ZI_M23,23,T1,Fieldmap_2,4,Fieldmap
+200722D,ZI_M23,23,T1,EPI_reappraisal,5,EPI paradigma
+200722D,ZI_M23,23,T1,Fieldmap_3,6,Fieldmap
+200722D,ZI_M23,23,T1,Fieldmap (E6),6,Fieldmap
+200722D,ZI_M23,23,T1,TurboRARE3D,7,TurboRARE3D_Awake_biggerFOV
+200722E,ZI_M22,22,T1,Localizer (E1),1,
+200722E,ZI_M22,22,T1,,9,EPI test
+200722E,ZI_M22,22,T1,EPI test (E2),2,EPI test
+200722E,ZI_M22,22,T1,Fieldmap (E8),8,Fieldmap
+200722E,ZI_M22,22,T1,Fieldmap_1,8,Fieldmap
+200722E,ZI_M22,22,T1,EPI_RS,3,EPI RS
+200722E,ZI_M22,22,T1,Fieldmap (E4),4,Fieldmap
+200722E,ZI_M22,22,T1,Fieldmap_2,4,Fieldmap
+200722E,ZI_M22,22,T1,EPI_reappraisal,5,EPI paradigma
+200722E,ZI_M22,22,T1,Fieldmap_3,6,Fieldmap
+200722E,ZI_M22,22,T1,Fieldmap (E6),6,Fieldmap
+200722E,ZI_M22,22,T1,TurboRARE3D,7,TurboRARE3D_Awake_biggerFOV
+200722F,ZI_M24,24,T1,Localizer (E1),1,
+200722F,ZI_M24,24,T1,,9,EPI test
+200722F,ZI_M24,24,T1,EPI test (E2),2,EPI test
+200722F,ZI_M24,24,T1,Fieldmap (E4),4,Fieldmap
+200722F,ZI_M24,24,T1,Fieldmap_1,4,Fieldmap
+200722F,ZI_M24,24,T1,EPI_RS,3,EPI RS
+200722F,ZI_M24,24,T1,Fieldmap_2,8,Fieldmap
+200722F,ZI_M24,24,T1,Fieldmap (E8),8,Fieldmap
+200722F,ZI_M24,24,T1,EPI_reappraisal,5,EPI paradigma
+200722F,ZI_M24,24,T1,Fieldmap_3,6,Fieldmap
+200722F,ZI_M24,24,T1,Fieldmap (E6),6,Fieldmap
+200722F,ZI_M24,24,T1,TurboRARE3D,7,TurboRARE3D_Awake_biggerFOV
+200724A,ZI_M34,34,T1,Localizer (E9),9,
+200724A,ZI_M34,34,T1,,10,EPI test
+200724A,ZI_M34,34,T1,EPI test (E2),2,EPI test
+200724A,ZI_M34,34,T1,Fieldmap (E3),3,Fieldmap
+200724A,ZI_M34,34,T1,Fieldmap_1,3,Fieldmap
+200724A,ZI_M34,34,T1,EPI_RS,4,EPI RS
+200724A,ZI_M34,34,T1,Fieldmap_2,5,Fieldmap
+200724A,ZI_M34,34,T1,Fieldmap (E5),5,Fieldmap
+200724A,ZI_M34,34,T1,EPI_reappraisal,6,EPI paradigma
+200724A,ZI_M34,34,T1,Fieldmap_3,7,Fieldmap
+200724A,ZI_M34,34,T1,Fieldmap (E7),7,Fieldmap
+200724A,ZI_M34,34,T1,TurboRARE3D,8,TurboRARE3D_Awake_biggerFOV
+200724B,ZI_M36,36,T1,Localizer (E1),1,
+200724B,ZI_M36,36,T1,,9,EPI test
+200724B,ZI_M36,36,T1,EPI test (E2),2,EPI test
+200724B,ZI_M36,36,T1,Fieldmap (E3),3,Fieldmap
+200724B,ZI_M36,36,T1,Fieldmap_1,3,Fieldmap
+200724B,ZI_M36,36,T1,EPI_RS,4,EPI RS
+200724B,ZI_M36,36,T1,Fieldmap (E5),5,Fieldmap
+200724B,ZI_M36,36,T1,Fieldmap_2,5,Fieldmap
+200724B,ZI_M36,36,T1,EPI_reappraisal,6,EPI paradigma
+200724B,ZI_M36,36,T1,Fieldmap (E7),7,Fieldmap
+200724B,ZI_M36,36,T1,Fieldmap_3,7,Fieldmap
+200724B,ZI_M36,36,T1,TurboRARE3D,8,TurboRARE3D_Awake_biggerFOV
+200724C,ZI_M33,33,T1,Localizer (E1),1,
+200724C,ZI_M33,33,T1,,9,EPI test
+200724C,ZI_M33,33,T1,EPI test (E2),2,EPI test
+200724C,ZI_M33,33,T1,Fieldmap (E3),3,Fieldmap
+200724C,ZI_M33,33,T1,Fieldmap_1,3,Fieldmap
+200724C,ZI_M33,33,T1,EPI_RS,4,EPI RS
+200724C,ZI_M33,33,T1,Fieldmap_2,5,Fieldmap
+200724C,ZI_M33,33,T1,Fieldmap (E5),5,Fieldmap
+200724C,ZI_M33,33,T1,EPI_reappraisal,6,EPI paradigma
+200724C,ZI_M33,33,T1,Fieldmap_3,7,Fieldmap
+200724C,ZI_M33,33,T1,Fieldmap (E7),7,Fieldmap
+200724C,ZI_M33,33,T1,TurboRARE3D,8,TurboRARE3D_Awake_biggerFOV
+200724D,ZI_M35,35,T1,Localizer (E1),1,
+200724D,ZI_M35,35,T1,,9,EPI test
+200724D,ZI_M35,35,T1,EPI test (E2),2,EPI test
+200724D,ZI_M35,35,T1,Fieldmap (E3),3,Fieldmap
+200724D,ZI_M35,35,T1,Fieldmap_1,3,Fieldmap
+200724D,ZI_M35,35,T1,EPI_RS,4,EPI RS
+200724D,ZI_M35,35,T1,Fieldmap_2,5,Fieldmap
+200724D,ZI_M35,35,T1,Fieldmap (E5),5,Fieldmap
+200724D,ZI_M35,35,T1,EPI_reappraisal,6,EPI paradigma
+200724D,ZI_M35,35,T1,Fieldmap_3,7,Fieldmap
+200724D,ZI_M35,35,T1,Fieldmap (E7),7,Fieldmap
+200724D,ZI_M35,35,T1,TurboRARE3D,8,TurboRARE3D_Awake_biggerFOV
+200724E,ZI_M27,27,T1,Localizer (E1),1,
+200724E,ZI_M27,27,T1,,9,EPI test
+200724E,ZI_M27,27,T1,EPI test (E2),2,EPI test
+200724E,ZI_M27,27,T1,Fieldmap (E3),3,Fieldmap
+200724E,ZI_M27,27,T1,Fieldmap_1,3,Fieldmap
+200724E,ZI_M27,27,T1,EPI_RS,4,EPI RS
+200724E,ZI_M27,27,T1,Fieldmap (E5),5,Fieldmap
+200724E,ZI_M27,27,T1,Fieldmap_2,5,Fieldmap
+200724E,ZI_M27,27,T1,EPI_reappraisal,6,EPI paradigma
+200724E,ZI_M27,27,T1,Fieldmap (E7),7,Fieldmap
+200724E,ZI_M27,27,T1,Fieldmap_3,7,Fieldmap
+200724E,ZI_M27,27,T1,TurboRARE3D,8,TurboRARE3D_Awake_biggerFOV
+200724F,ZI_M26,26,T1,Localizer (E1),1,
+200724F,ZI_M26,26,T1,,9,EPI test
+200724F,ZI_M26,26,T1,EPI test (E2),2,EPI test
+200724F,ZI_M26,26,T1,Fieldmap (E3),3,Fieldmap
+200724F,ZI_M26,26,T1,Fieldmap_1,3,Fieldmap
+200724F,ZI_M26,26,T1,EPI_RS,4,EPI RS
+200724F,ZI_M26,26,T1,Fieldmap_2,5,Fieldmap
+200724F,ZI_M26,26,T1,Fieldmap (E5),5,Fieldmap
+200724F,ZI_M26,26,T1,EPI_reappraisal,6,EPI paradigma
+200724F,ZI_M26,26,T1,Fieldmap_3,7,Fieldmap
+200724F,ZI_M26,26,T1,Fieldmap (E7),7,Fieldmap
+200724F,ZI_M26,26,T1,TurboRARE3D,8,TurboRARE3D_Awake_biggerFOV
+200729A,ZI_M32,32,T1,Localizer (E1),1,
+200729A,ZI_M32,32,T1,,8,EPI test
+200729A,ZI_M32,32,T1,EPI test (E2),2,EPI test
+200729A,ZI_M32,32,T1,Fieldmap (E3),3,Fieldmap
+200729A,ZI_M32,32,T1,Fieldmap_1,3,Fieldmap
+200729A,ZI_M32,32,T1,EPI_RS,4,EPI RS
+200729A,ZI_M32,32,T1,Fieldmap (E5),5,Fieldmap
+200729A,ZI_M32,32,T1,Fieldmap_2,5,Fieldmap
+200729A,ZI_M32,32,T1,EPI_reappraisal,6,EPI paradigma
+200729A,ZI_M32,32,T1,Fieldmap_3,7,Fieldmap
+200729A,ZI_M32,32,T1,Fieldmap (E7),7,Fieldmap
+200729A,ZI_M32,32,T1,TurboRARE3D,10,TurboRARE3D_Awake_biggerFOV
+200729B,ZI_M40,40,T1,Localizer (E9),9,
+200729B,ZI_M40,40,T1,,10,EPI test
+200729B,ZI_M40,40,T1,EPI test (E2),2,EPI test
+200729B,ZI_M40,40,T1,Fieldmap (E3),3,Fieldmap
+200729B,ZI_M40,40,T1,Fieldmap_1,3,Fieldmap
+200729B,ZI_M40,40,T1,EPI_RS,4,EPI RS
+200729B,ZI_M40,40,T1,Fieldmap_2,5,Fieldmap
+200729B,ZI_M40,40,T1,Fieldmap (E5),5,Fieldmap
+200729B,ZI_M40,40,T1,EPI_reappraisal,6,EPI paradigma
+200729B,ZI_M40,40,T1,Fieldmap_3,7,Fieldmap
+200729B,ZI_M40,40,T1,Fieldmap (E7),7,Fieldmap
+200729B,ZI_M40,40,T1,TurboRARE3D,8,TurboRARE3D_Awake_biggerFOV
+200729C,ZI_M31,31,T1,Localizer (E1),1,
+200729C,ZI_M31,31,T1,,9,EPI test
+200729C,ZI_M31,31,T1,EPI test (E2),2,EPI test
+200729C,ZI_M31,31,T1,Fieldmap (E3),3,Fieldmap
+200729C,ZI_M31,31,T1,Fieldmap_1,3,Fieldmap
+200729C,ZI_M31,31,T1,EPI_RS,4,EPI RS
+200729C,ZI_M31,31,T1,Fieldmap_2,5,Fieldmap
+200729C,ZI_M31,31,T1,Fieldmap (E5),5,Fieldmap
+200729C,ZI_M31,31,T1,EPI_reappraisal,6,EPI paradigma
+200729C,ZI_M31,31,T1,Fieldmap_3,7,Fieldmap
+200729C,ZI_M31,31,T1,Fieldmap (E7),7,Fieldmap
+200729C,ZI_M31,31,T1,TurboRARE3D,8,TurboRARE3D_Awake_biggerFOV
+200729D,ZI_M37,37,T1,Localizer (E1),1,
+200729D,ZI_M37,37,T1,,9,EPI test
+200729D,ZI_M37,37,T1,EPI test (E2),2,EPI test
+200729D,ZI_M37,37,T1,Fieldmap (E3),3,Fieldmap
+200729D,ZI_M37,37,T1,Fieldmap_1,3,Fieldmap
+200729D,ZI_M37,37,T1,EPI_RS,4,EPI RS
+200729D,ZI_M37,37,T1,Fieldmap (E5),5,Fieldmap
+200729D,ZI_M37,37,T1,Fieldmap_2,5,Fieldmap
+200729D,ZI_M37,37,T1,EPI_reappraisal,6,EPI paradigma
+200729D,ZI_M37,37,T1,Fieldmap (E7),7,Fieldmap
+200729D,ZI_M37,37,T1,Fieldmap_3,7,Fieldmap
+200729D,ZI_M37,37,T1,TurboRARE3D,8,TurboRARE3D_Awake_biggerFOV
+200729E,ZI_M30,30,T1,Localizer (E1),1,
+200729E,ZI_M30,30,T1,,9,EPI test
+200729E,ZI_M30,30,T1,EPI test (E2),2,EPI test
+200729E,ZI_M30,30,T1,Fieldmap (E3),3,Fieldmap
+200729E,ZI_M30,30,T1,Fieldmap_1,3,Fieldmap
+200729E,ZI_M30,30,T1,EPI_RS,4,EPI RS
+200729E,ZI_M30,30,T1,Fieldmap (E5),5,Fieldmap
+200729E,ZI_M30,30,T1,Fieldmap_2,5,Fieldmap
+200729E,ZI_M30,30,T1,EPI_reappraisal,6,EPI paradigma
+200729E,ZI_M30,30,T1,Fieldmap (E7),7,Fieldmap
+200729E,ZI_M30,30,T1,Fieldmap_3,7,Fieldmap
+200729E,ZI_M30,30,T1,TurboRARE3D,8,TurboRARE3D_Awake_biggerFOV
+200729F,ZI_M38,38,T1,Localizer (E1),1,
+200729F,ZI_M38,38,T1,,9,EPI test
+200729F,ZI_M38,38,T1,EPI test (E2),2,EPI test
+200729F,ZI_M38,38,T1,Fieldmap (E3),3,Fieldmap
+200729F,ZI_M38,38,T1,Fieldmap_1,3,Fieldmap
+200729F,ZI_M38,38,T1,EPI_RS,4,EPI RS
+200729F,ZI_M38,38,T1,Fieldmap (E5),5,Fieldmap
+200729F,ZI_M38,38,T1,Fieldmap_2,5,Fieldmap
+200729F,ZI_M38,38,T1,EPI_reappraisal,6,EPI paradigma
+200729F,ZI_M38,38,T1,Fieldmap (E7),7,Fieldmap
+200729F,ZI_M38,38,T1,Fieldmap_3,7,Fieldmap
+200729F,ZI_M38,38,T1,TurboRARE3D,8,TurboRARE3D_Awake_biggerFOV
